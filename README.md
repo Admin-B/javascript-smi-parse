@@ -1,2 +1,2 @@
 # javascript-smi-parse
-so simpple :P
+so simple :P
